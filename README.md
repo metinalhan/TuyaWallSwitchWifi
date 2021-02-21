@@ -4,6 +4,10 @@ Allows you to control your tuya compatible wall light switch via windows
 ## Linking a Tuya device with Smart Link
 Check out the instructions at [codetheweb/tuyapi](https://github.com/codetheweb/tuyapi/blob/master/docs/SETUP.md)
 
+## Install NuGet Package
+Newtonsoft.Json
+RestSharp
+
 ## Set Your Information Into DeviceInfoProp Class 
 ```C#
 public const string device_id = "your device id";
